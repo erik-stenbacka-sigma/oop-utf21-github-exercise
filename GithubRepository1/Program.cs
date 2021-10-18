@@ -1,3 +1,3 @@
 ﻿using System;
 
-Console.WriteLine("Hello Github!");
+Console.WriteLine("Hello other me!");
